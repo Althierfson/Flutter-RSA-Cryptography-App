@@ -36,13 +36,13 @@ This is a Flutter application that allows users to encrypt short messages using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Althierfson/Flutter-RSA-Cryptography-App.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd repository-name
+   cd Flutter-RSA-Cryptography-App
    ```
 
 3. Run the application:
